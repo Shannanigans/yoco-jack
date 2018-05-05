@@ -1,0 +1,23 @@
+{
+  "name": "yoco-jack",
+  "version": "1.0.0",
+  "description": "Blackjack like hand evaluator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Shannanigans/yoco-jack.git"
+  },
+  "author": "Shannon I'Ons",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shannanigans/yoco-jack/issues"
+  },
+  "homepage": "https://github.com/Shannanigans/yoco-jack#readme",
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "request": "^2.85.0"
+  }
+}
